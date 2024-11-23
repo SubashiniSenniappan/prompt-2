@@ -1,5 +1,6 @@
 # Ex.No:02 
-# Date:23.08.2
+# Date:23.08.2024
+
 
 # ComparativeAnalysis of Naïve Prompting versus Basic PromptingAcross 
  #                 Various Test Scenarios 
